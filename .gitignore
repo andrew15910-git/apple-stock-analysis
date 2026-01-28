@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / local stuff
+anaconda_projects/
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / JupyterLab internal
+anaconda_projects/
+*.db
+
+# Python
+__pycache__/
+*.pyc
+
